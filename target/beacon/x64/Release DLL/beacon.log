@@ -1,0 +1,5 @@
+﻿  main.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+     Creating library C:\Users\user\Desktop\beacon\agent_beacon -base - Copy\src_beacon\x64\Release DLL\beacon.lib and object C:\Users\user\Desktop\beacon\agent_beacon -base - Copy\src_beacon\x64\Release DLL\beacon.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  beacon.vcxproj -> C:\Users\user\Desktop\beacon\agent_beacon -base - Copy\src_beacon\x64\Release DLL\beacon.dll
